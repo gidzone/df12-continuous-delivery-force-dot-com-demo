@@ -1,4 +1,4 @@
-public with sharing class AccountManagment{
+public with sharing class AccountManagement{
 	
 	public AccountManagement(){
 		//change

@@ -1,2 +1,2 @@
-<apex:page standardcontroller="Account" sidebar="false" showHeader="true" tabstyle="Publication_Request__tab"
+<apex:page standardcontroller="Account" sidebar="false" showHeader="true">
 </apex:page>
